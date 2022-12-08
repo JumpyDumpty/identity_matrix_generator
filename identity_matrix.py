@@ -23,3 +23,4 @@ def id_mtrx(n) -> list:
 print(id_mtrx('3'))
 print(id_mtrx(-2))
 print(id_mtrx(0))
+print(id_mtrx(114514))
